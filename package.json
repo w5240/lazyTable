@@ -1,0 +1,18 @@
+{
+  "name": "lazy_table",
+  "version": "1.0.6",
+  "description": "the table with loadable td",
+  "main": "./src/lazy_table.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.qdum.com/fed/lazy_table.git"
+  },
+  "keywords": [
+    "lazt_table"
+  ],
+  "author": "shuzhao wang",
+  "license": "ISC"
+}
